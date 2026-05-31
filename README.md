@@ -107,8 +107,9 @@ Investigated security alerts, analyzed suspicious PowerShell activity, reviewed 
 ---
 
 # Author
+# Author
 
-**Shaun Teka**
+### [Shaun Monwabisi Teka](https://www.linkedin.com/in/shaunmonwabisiteka/)
 
 Cybersecurity | Infrastructure | IT Support
 
