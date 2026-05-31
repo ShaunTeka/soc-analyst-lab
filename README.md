@@ -2,13 +2,7 @@
 
 ## Overview
 
-This repository contains hands-on Security Operations Center (SOC) labs focused on:
-- Threat Detection
-- SIEM Operations
-- XDR Technologies
-- Incident Response
-- Cloud Security
-- Microsoft Security Solutions
+This repository contains hands-on Security Operations Center (SOC) projects completed using Microsoft Security technologies. The labs focus on threat detection, incident response, SIEM, XDR, endpoint security, security automation, and cloud security operations.
 
 ---
 
@@ -16,35 +10,106 @@ This repository contains hands-on Security Operations Center (SOC) labs focused 
 
 ## Microsoft XDR Security Operations Lab
 
-Implemented Microsoft Defender XDR policies and explored integrated security operations capabilities.
+Implemented Microsoft Defender XDR security policies and protection mechanisms across Exchange Online and Microsoft Defender for Office 365.
 
-📁 [View Project](./microsoft-xdr-lab)
+### Skills Demonstrated
+
+- Microsoft Defender XDR
+- Exchange Online Protection
+- Defender for Office 365
+- Security Policy Configuration
+- Threat Protection
+
+📁 **Project Folder:** `microsoft-xdr-lab`
 
 ---
 
 ## Microsoft Security Copilot Lab
 
-Explored AI-assisted security operations and incident investigation using Microsoft Security Copilot.
+Configured Microsoft Security Copilot, Azure access management, security roles, data storage settings, and Microsoft Purview auditing to support AI-assisted security investigations.
 
-📁 [View Project](./microsoft-security-copilot-lab)
+### Skills Demonstrated
+
+- Microsoft Security Copilot
+- Microsoft Entra ID
+- Azure IAM
+- Microsoft Purview
+- Security Administration
+
+📁 **Project Folder:** `microsoft-security-copilot-lab`
 
 ---
 
-## Microsoft Sentinel Lab
+## Microsoft Sentinel Incident Response & Automation Lab
 
-Performed SIEM monitoring, log analysis, and threat hunting using Microsoft Sentinel.
+Configured Microsoft Sentinel analytics rules, automation workflows, SOAR playbooks, and Azure Activity data connectors to improve security monitoring and incident response capabilities.
 
-📁 [View Project](./microsoft-sentinel-lab)
+### Skills Demonstrated
 
----
-
-# Skills Demonstrated
-
-- Threat Detection
+- Microsoft Sentinel
 - SIEM Operations
-- XDR Administration
-- Incident Response
-- Threat Hunting
-- Cloud Security
+- SOAR Automation
+- Azure Security Monitoring
+- Logic Apps
+- Threat Detection & Response
+
+📁 **Project Folder:** `microsoft-sentinel-lab`
+
+---
+
+## Microsoft Defender for Endpoint Incident Investigation Lab
+
+Investigated security alerts, analyzed suspicious PowerShell activity, reviewed incident timelines, managed incidents, and investigated a simulated multi-stage attack using Microsoft Defender for Endpoint.
+
+### Skills Demonstrated
+
+- Microsoft Defender for Endpoint
+- Endpoint Detection & Response (EDR)
+- Incident Investigation
+- Alert Triage
+- Threat Detection
+- Incident Management
+- Root Cause Analysis
 - Security Monitoring
-- Microsoft Security Stack
+
+📁 **Project Folder:** `microsoft-defender-endpoint-lab`
+
+---
+
+# Core Skills Demonstrated
+
+- Security Operations Center (SOC) Operations
+- Microsoft Sentinel (SIEM)
+- Microsoft Defender XDR
+- Microsoft Defender for Endpoint (EDR)
+- Microsoft Security Copilot
+- Incident Response
+- Threat Detection & Investigation
+- Security Monitoring
+- Security Automation (SOAR)
+- Azure Security
+- Identity & Access Management (IAM)
+- Windows Security Administration
+
+---
+
+# Future Projects
+
+- KQL Threat Hunting Lab
+- Microsoft Sentinel Workbooks
+- Threat Intelligence Integration
+- MITRE ATT&CK Mapping
+- Azure Security Center
+- Microsoft Defender for Cloud
+- Security Incident Response Playbooks
+- Security Monitoring Dashboards
+
+---
+
+# Author
+
+**Shaun Teka**
+
+Cybersecurity | Infrastructure | IT Support
+
+Hands-on experience with Microsoft Sentinel, Defender XDR, Defender for Endpoint, Security Copilot, Active Directory, Windows Server, and Enterprise Security Operations.
