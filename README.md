@@ -105,12 +105,3 @@ Investigated security alerts, analyzed suspicious PowerShell activity, reviewed 
 - Security Monitoring Dashboards
 
 ---
-
-# Author
-# Author
-
-### [Shaun Monwabisi Teka](https://www.linkedin.com/in/shaunmonwabisiteka/)
-
-Cybersecurity | Infrastructure | IT Support
-
-Hands-on experience with Microsoft Sentinel, Defender XDR, Defender for Endpoint, Security Copilot, Active Directory, Windows Server, and Enterprise Security Operations.
