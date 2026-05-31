@@ -20,7 +20,7 @@ Implemented Microsoft Defender XDR security policies and protection mechanisms a
 - Security Policy Configuration
 - Threat Protection
 
-📁 **Project Folder:** `microsoft-xdr-lab`
+📁 [View Project](./microsoft-xdr-lab)
 
 ---
 
@@ -36,7 +36,7 @@ Configured Microsoft Security Copilot, Azure access management, security roles, 
 - Microsoft Purview
 - Security Administration
 
-📁 **Project Folder:** `microsoft-security-copilot-lab`
+📁 [View Project](./microsoft-security-copilot-lab)
 
 ---
 
@@ -53,7 +53,7 @@ Configured Microsoft Sentinel analytics rules, automation workflows, SOAR playbo
 - Logic Apps
 - Threat Detection & Response
 
-📁 **Project Folder:** `microsoft-sentinel-lab`
+📁 [View Project](./microsoft-sentinel-lab)
 
 ---
 
@@ -72,7 +72,7 @@ Investigated security alerts, analyzed suspicious PowerShell activity, reviewed 
 - Root Cause Analysis
 - Security Monitoring
 
-📁 **Project Folder:** `microsoft-defender-endpoint-lab`
+📁 [View Project](./microsoft-defender-endpoint-lab)
 
 ---
 
